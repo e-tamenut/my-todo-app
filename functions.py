@@ -1,7 +1,7 @@
 # use help(name_of_function) in the Python console to learn and also write PyDocs for their use, (memory practice)
 
 # Pythons version of Java's STATIC
-FILEPATH = "../../PycharmProjects/todo_app/todos.txt"
+FILEPATH = "todos.txt"
 
 # custom function to replace repetitive code
 # takes an argument
